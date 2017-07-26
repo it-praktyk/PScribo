@@ -112,8 +112,13 @@ For an introduction to the PScribo framework, you can view the presentation give
 
 ### Unreleased
 
+* Adds ClassId parameter to TOC for HTML output
+
+### 0.7.17
+
 * Renames 'Hide' parameter to 'Hidden' on Style keyword
   * Adds 'Hide' alias for backwards compatibility
+* Fixes errors importing localized data on en-US systems (#49)
   
 ### 0.7.16
 
